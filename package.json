@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "@ton/core": "^0.59.0",
+    "@ton/crypto": "^3.3.0",
     "@ton/test-utils": "^0.4.2",
     "@types/express": "^5.0.0",
     "cookie-parser": "~1.4.4",
@@ -15,6 +16,7 @@
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
-    "ts-node": "^10.9.2"
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
   }
 }
